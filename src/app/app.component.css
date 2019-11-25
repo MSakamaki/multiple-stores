@@ -1,0 +1,10 @@
+
+ul li {
+  line-height: 32px;
+}
+
+button {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 4px 8px;
+}
